@@ -23,6 +23,3 @@ Please note: The text output that is visible on the console screen is written in
 - **Console Application**
 - **File I/O (CSV)**
 - **Object-Oriented Programming (OOP)**
-
-## 🗂️ Project Structure
-
